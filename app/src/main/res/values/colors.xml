@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Brand -->
+    <color name="primary">#1E3A8A</color>
+    <color name="primary_dark">#172554</color>
+    <color name="primary_light">#2563EB</color>
+    <color name="primary_container">#DBEAFE</color>
+    <color name="accent">#F59E0B</color>
+
+    <!-- Surfaces & text -->
+    <color name="bg">#F4F6FB</color>
+    <color name="ink">#0F172A</color>
+    <color name="muted">#64748B</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="outline_strong">#94A3B8</color>
+
+    <!-- Status -->
+    <color name="live">#E11D48</color>
+    <color name="success">#16A34A</color>
+    <color name="chip_up_bg">#FEF3C7</color>
+    <color name="chip_up_fg">#92400E</color>
+    <color name="chip_done_bg">#E2E8F0</color>
+    <color name="chip_done_fg">#334155</color>
+
+    <!-- Overlays on dark headers -->
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_20">#33FFFFFF</color>
+
+    <!-- Points table highlights -->
+    <color name="gold_bg">#FEF9C3</color>
+    <color name="silver_bg">#F1F5F9</color>
+    <color name="bronze_bg">#FFEDD5</color>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077491148672",
+    "project_id": "flavium-2d8a1",
+    "storage_bucket": "flavium-2d8a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077491148672:android:601322af4d85b5114a0365",
+        "android_client_info": {
+          "package_name": "com.example.flavium"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDolGl9oGqEYf-uI8z96csd6d54S9_m5hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
